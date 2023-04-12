@@ -1,9 +1,11 @@
+console.log('Hello');
+
 const btns = document.querySelectorAll( '.btn' );
 
 const btn1 = document.querySelector( '.btn-1' );
 const btn2 = document.querySelector( '.btn-2' );
 const img = document.querySelector( '.img' );
-console.log(img);
+// console.log(img);
 
 
 function triggerOn (e) {
